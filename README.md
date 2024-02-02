@@ -20,5 +20,5 @@ Transistor Outputs
 DIN-Rail mount
 Expansions Supported
 
-Datasheet:   https://drive.google.com/open?id=1WYCJQO6kS7XZvXANbhhmvZrQfqRUATw5&usp=drive_fs
-User Guide:  https://drive.google.com/open?id=1e4r4bCngZDtPuAL0VsXdiV8IRKSkYByv&usp=drive_fs
+Datasheet:   https://norvi.lk/docs/norvi-gsm-ae04-i-g-datasheet/
+User Guide:  https://norvi.lk/docs/norvi-gsm-ae04-i-g-user-guide/
