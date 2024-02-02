@@ -1,4 +1,4 @@
-4
+
 /*
  * 
  * 
@@ -290,6 +290,8 @@ void RTC_Check(){
   }
  }
 }
+
+
 
 void SD_CHECK(){
   uint8_t cardType = SD.cardType();
